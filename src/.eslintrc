@@ -15,7 +15,10 @@
     "react/jsx-filename-extension": [0],
     "quotes": [0],
     "comma-dangle": [0],
-    "linebreak-style": ["error", "windows"]
+    "linebreak-style": ["error", "windows"],
+    "object-curly-newline":[0],
+    "implicit-arrow-linebreak": [0],
+    "function-paren-newline":[0]
   }
 }
 
